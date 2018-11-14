@@ -30,3 +30,14 @@
     transform: rotate(360deg);
   }
 }
+
+.vote {
+  width: 240px !important;
+  margin: 0 auto;
+}
+
+.vote-icon {
+  width: 60px !important;
+  padding: 5px;
+  margin-top: 20px;
+}
